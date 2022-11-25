@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "610206215792",
+    "project_id": "dhruvin-7fc60",
+    "storage_bucket": "dhruvin-7fc60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610206215792:android:46296cf0927af532cc8eb5",
+        "android_client_info": {
+          "package_name": "com.example.dfgd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "610206215792-pj239ro5lstmm72c656rjgb79vfn735q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG1PLCbMDmzf4mxrCYG9L4-Lq4vjD3Jhs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "610206215792-pj239ro5lstmm72c656rjgb79vfn735q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
